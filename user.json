@@ -1,16 +1,1 @@
-[
-    {
-        "username": "1",
-        "password": "1",
-        "expiry": "2026-12-31",
-        "hwid": [
-            "f02691317e09480ftaroOnePlusOP516FL1SKQ1.220617.001"
-        ]
-    },
-    {
-        "username": "user",
-        "password": "1",
-        "expiry": "2025-07-21",
-        "hwid": []
-    }
-]
+[{"username":"1","password":"1","expiry":"2026-12-31","hwid":["f02691317e09480ftaroOnePlusOP516FL1SKQ1.220617.001"]},{"username":"user","password":"1","expiry":"2025-07-21","hwid":["f02691317e09480ftaroOnePlusOP516FL1SKQ1.220617.001"]}]
