@@ -1,1 +1,28 @@
-[{"username":"1","password":"1","expiry":"2026-12-31","hwid":[]},{"username":"harsh","password":"1","expiry":"2025-07-29","hwid":["e4cd49de6d2058187f5e80ff73fc262e3c8cac4b00aa13788887291008356d5e"]},{"username":"udit","password":"1","expiry":"2025-07-29","hwid":[]}]
+[
+    {
+        "username": "1",
+        "password": "1",
+        "expiry": "2026-12-31",
+        "hwid": []
+    },
+    {
+        "username": "harsh",
+        "password": "1",
+        "expiry": "2025-07-29",
+        "hwid": [
+            "e4cd49de6d2058187f5e80ff73fc262e3c8cac4b00aa13788887291008356d5e"
+        ]
+    },
+    {
+        "username": "udit",
+        "password": "1",
+        "expiry": "2025-07-29",
+        "hwid": []
+    },
+    {
+        "username": "kai",
+        "password": "1",
+        "expiry": "2025-07-29",
+        "hwid": []
+    }
+]
