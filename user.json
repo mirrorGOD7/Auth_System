@@ -24,5 +24,11 @@
         "password": "1",
         "expiry": "2025-07-29",
         "hwid": []
+    },
+    {
+        "username": "sd",
+        "password": "1",
+        "expiry": "2025-07-29",
+        "hwid": []
     }
 ]
