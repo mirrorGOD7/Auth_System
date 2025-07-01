@@ -51,5 +51,11 @@
         "password": "123",
         "expiry": "2025-07-31",
         "hwid": []
+    },
+    {
+        "username": "30day",
+        "password": "123",
+        "expiry": "2025-07-31",
+        "hwid": []
     }
 ]
