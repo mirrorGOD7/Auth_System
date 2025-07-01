@@ -25,14 +25,6 @@
         ]
     },
     {
-        "username": "kai",
-        "password": "1",
-        "expiry": "2025-07-29",
-        "hwid": [
-            "161ef5c94afb9751edad6aceae3005de3bcbb7cd893a962282224b43f57769e0"
-        ]
-    },
-    {
         "username": "admin",
         "password": "1",
         "expiry": "2025-07-01",
