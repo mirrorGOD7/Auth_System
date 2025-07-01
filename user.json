@@ -33,5 +33,11 @@
             "9efe9b8213da94f50cead616696f298fd6c4dba2af79da2487066576ae031c7e",
             "2fedee6c521f3bbe7895362f90ba8acba6bd48a9774297bb067f5566605ad3d3"
         ]
+    },
+    {
+        "username": "admin1",
+        "password": "1",
+        "expiry": "2025-07-31",
+        "hwid": []
     }
 ]
